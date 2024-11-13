@@ -27,8 +27,8 @@ A feature-rich, terminal-based music player designed for Linux distributions. MT
 ### Main Interface
 ![Main Interface](https://github.com/almezali/mtsp-1.0.13/raw/main/Screenshot_01.png)
 
-### Playlist Management
-![Playlist Management](https://github.com/almezali/mtsp-1.0.13/raw/main/Screenshot_02.png)
+### الواجهة باللغة العربية
+![الواجهة باللغة العربية](https://github.com/almezali/mtsp-1.0.13/raw/main/Screenshot_02.png)
 
 ## Requirements
 
